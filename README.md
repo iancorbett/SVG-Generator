@@ -18,7 +18,13 @@ Testing the application:
 
 In order to test this application, download node.js if you have not already. Use NMP (node package manager), to install everything that you will need to complete the project.(inquirer, fs, etc.) Use the integrated terminal to run the index.js file, using the node index command. Answer all of the questions that you are prompted. Upon answering and submitting your answer to the final question, an HTML page named “index.html” will be automatically generated. Open this file in the live server, and your README page will be ready!
 
+Screenshots: For screenshots of the completed projects, please refer to the examples folder, where there is an example for every shape.
+
 Sources:
+
+For this projects, I did receive any help from one tutor, and I did receive help in the form of looking over another project on Github, that was created for a similar project. 
+The link to that GitHub repo is: https://github.com/ThomasCalle/Thomas-Object-Oriented-Programming-SVG-Logo-Maker
+Before looking through this repo and meeting with the tutor, I had all but one function of the application working. I was able to dynamically create the logo.svg file, and it contained an SVG that changed color, based on the user input. Additionally, the text on the SVG was created correctly. The only thing that I could not figure out was how to dynamically change the shape. I could only get it to create one shape that was hard coded. I met with a tutor and was reccomended to use a switch statement. However I was still unable to make the application work, before I looked at this code and realized what I was missing. My previous code was left commented out in the index.js file. What I realized I was missing is  
 
 Link to Walk-Through: https://www.youtube.com/watch?v=f_OZcU73NbA
 
