@@ -8,7 +8,9 @@ User instructions:
 
 First, you will have to open the index file in the integrated terminal then you will have to install all of the necessary packages, including inquirer and jest. Once all the necessary packages have been installed you will run the command node index in the integrated terminal and you will then answer the three prompts that you are asked upon finishing the third prompt a new file called logo.SVG will be created. You will write click after opening the file and then open it in the live server. Your newly created SVG will be there!
 
-Usage information
+Usage information: 
+
+In order to use this application, you need to open the code from GitHub in VS code and then open up the index.js file in the integrated terminal. You will then run node index to run the javascript file. You will then be prompted with a series of questions that will ask you for the information that you need to build an SVG. When you answer these questions, your responses will be received and will generate the SVG that you requested.
 
 How to contribute: In order to contribute to this page, you need to have permission from the repository owner. It is publicly viewable, but changes have to be from users that have been granted permission to make edits on the page.
 
